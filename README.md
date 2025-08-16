@@ -32,7 +32,7 @@ This streamlined performance tracking, improved reporting efficiency, and enable
 - **Data Analytics**
 - **Business Intelligence (BI)**
 
-  ## 🛠️ Tools & Technologies Used:
+## 🛠️ Tools & Technologies Used:
 🔹 **Microsfot Excel:** or exploring and validating CSV data.  
 🔹 **SQL Server Express:** Lightweight SQL database for processing data.  
 🔹 **SQL Server Management Studio (SSMS):** GUI for managing SQL queries and transformations.
@@ -64,11 +64,14 @@ This streamlined performance tracking, improved reporting efficiency, and enable
 - Connect **SQL Server with Power BI**.  
 - Build interactive dashboards for Sales & Marketing performance insights.
 
+---
 ## 🛡️ License
 This project is licensed under the **MIT License**. Feel free to use, modify, and share with proper attribution.
 
+---
 ## 🌟 About Me
 Hi there! I'm **Shoebur Rahman**, a **Data Analyst** passionate about data cleaning, analytics, and storytelling.  
 Let’s connect and explore data together! 🚀
 
+---
 🔗 [Portfolio](https://shoeburrahman.com) |🔗 [LinkedIn](https://www.linkedin.com/in/shoeburrahman/) | 🔗 [GitHub](https://github.com/AnalystShoeb) | 🔗 [Medium](https://medium.com/@analystshoeb)
