@@ -1,0 +1,96 @@
+product_id,product_name,category,sub_category,price,cost
+prd_0001,Apple (1kg),Fresh Produce,Fruits,85,55
+prd_0002,Banana (Dozen),Fresh Produce,Fruits,219,165
+prd_0003,Mango (1kg),Fresh Produce,Fruits,31,24
+prd_0004,Orange (1kg),Fresh Produce,Fruits,293,227
+prd_0005,Guava (1kg),Fresh Produce,Fruits,149,124
+prd_0006,Tomato (1kg),Fresh Produce,Vegetables,287,242
+prd_0007,Potato (1kg),Fresh Produce,Vegetables,63,47
+prd_0008,Carrot (1kg),Fresh Produce,Vegetables,114,80
+prd_0009,Cucumber (1kg),Fresh Produce,Vegetables,79,54
+prd_0010,Spinach (1kg),Fresh Produce,Vegetables,210,129
+prd_0011,Eggs (12 pcs),Fresh Produce,Eggs & Fish,62,49
+prd_0012,Live Tilapia (1kg),Fresh Produce,Eggs & Fish,144,90
+prd_0013,Rohu Fish (1kg),Fresh Produce,Eggs & Fish,111,68
+prd_0014,Prawns (500g),Fresh Produce,Eggs & Fish,101,64
+prd_0015,Catla Fish (1kg),Fresh Produce,Eggs & Fish,63,44
+prd_0016,Miniket Rice (5kg),Daily Household Needs,Staples,660,535
+prd_0017,Lentils (1kg),Daily Household Needs,Staples,639,397
+prd_0018,Mustard Oil (1L),Daily Household Needs,Staples,607,472
+prd_0019,Salt (1kg),Daily Household Needs,Staples,356,260
+prd_0020,Sugar (1kg),Daily Household Needs,Staples,312,260
+prd_0021,Turmeric Powder (100g),Daily Household Needs,Masalas,765,505
+prd_0022,Chili Powder (100g),Daily Household Needs,Masalas,640,520
+prd_0023,Garam Masala (100g),Daily Household Needs,Masalas,423,271
+prd_0024,Cumin Seeds (100g),Daily Household Needs,Masalas,373,236
+prd_0025,Coriander Powder (100g),Daily Household Needs,Masalas,320,197
+prd_0026,Shampoo (200ml),Daily Household Needs,Personal Care,577,434
+prd_0027,Toothpaste (100g),Daily Household Needs,Personal Care,442,298
+prd_0028,Soap (75g),Daily Household Needs,Personal Care,220,156
+prd_0029,Conditioner (200ml),Daily Household Needs,Personal Care,252,198
+prd_0030,Deodorant (150ml),Daily Household Needs,Personal Care,254,184
+prd_0031,Detergent Powder (1kg),Daily Household Needs,Cleaning Supplies,244,166
+prd_0032,Floor Cleaner (1L),Daily Household Needs,Cleaning Supplies,679,418
+prd_0033,Dishwashing Liquid (500ml),Daily Household Needs,Cleaning Supplies,607,426
+prd_0034,Bathroom Cleaner (500ml),Daily Household Needs,Cleaning Supplies,255,213
+prd_0035,Glass Cleaner (500ml),Daily Household Needs,Cleaning Supplies,368,236
+prd_0036,Diapers (Pack of 20),Daily Household Needs,Baby Care,328,245
+prd_0037,Baby Lotion (200ml),Daily Household Needs,Baby Care,775,644
+prd_0038,Baby Shampoo (200ml),Daily Household Needs,Baby Care,698,589
+prd_0039,Baby Wipes (Pack of 50),Daily Household Needs,Baby Care,243,194
+prd_0040,Baby Powder (100g),Daily Household Needs,Baby Care,690,463
+prd_0041,Dog Food (1kg),Daily Household Needs,Pet Care,714,458
+prd_0042,Cat Food (1kg),Daily Household Needs,Pet Care,566,393
+prd_0043,Pet Shampoo (500ml),Daily Household Needs,Pet Care,675,512
+prd_0044,Cat Litter (5kg),Daily Household Needs,Pet Care,351,212
+prd_0045,Bird Seed (1kg),Daily Household Needs,Pet Care,540,361
+prd_0046,Non-stick Fry Pan,Home Decor,Kitchenware,1333,1008
+prd_0047,Knife Set,Home Decor,Kitchenware,613,368
+prd_0048,Cutting Board,Home Decor,Kitchenware,457,279
+prd_0049,Pressure Cooker,Home Decor,Kitchenware,1456,895
+prd_0050,Microwave Oven,Home Decor,Kitchenware,471,299
+prd_0051,LED Bulb (9W),Home Decor,Lighting,443,331
+prd_0052,Desk Lamp,Home Decor,Lighting,1364,981
+prd_0053,Ceiling Light,Home Decor,Lighting,197,128
+prd_0054,Torchlight,Home Decor,Lighting,1029,849
+prd_0055,Wall Sconce,Home Decor,Lighting,1405,1034
+prd_0056,Power Bank (10k mAh),Electronics,Gadgets,1174,733
+prd_0057,Earphones,Electronics,Gadgets,2273,1832
+prd_0058,Bluetooth Speaker,Electronics,Gadgets,3192,2190
+prd_0059,Smart Watch,Electronics,Gadgets,1096,782
+prd_0060,USB Cable,Electronics,Gadgets,3868,2548
+prd_0061,Electric Kettle,Electronics,Appliances,1001,685
+prd_0062,Blender,Electronics,Appliances,1096,824
+prd_0063,Toaster,Electronics,Appliances,4141,3466
+prd_0064,Rice Cooker,Electronics,Appliances,3568,2407
+prd_0065,Air Fryer,Electronics,Appliances,4333,3453
+prd_0066,Pickles (200g),Grocery,Local Grocery,545,427
+prd_0067,Jaggery (500g),Grocery,Local Grocery,179,143
+prd_0068,Honey (250g),Grocery,Local Grocery,363,266
+prd_0069,Tea Leaves (500g),Grocery,Local Grocery,441,265
+prd_0070,Spices Mix (100g),Grocery,Local Grocery,647,477
+prd_0071,Olive Oil (1L),Grocery,International Grocery,821,548
+prd_0072,Pasta (500g),Grocery,International Grocery,91,68
+prd_0073,Cereal (1kg),Grocery,International Grocery,173,110
+prd_0074,Chocolate (100g),Grocery,International Grocery,76,59
+prd_0075,Coffee Beans (250g),Grocery,International Grocery,776,498
+prd_0076,Lipstick,Beauty & Health,Cosmetics,560,445
+prd_0077,Face Wash (100ml),Beauty & Health,Cosmetics,800,496
+prd_0078,Foundation,Beauty & Health,Cosmetics,288,195
+prd_0079,Mascara,Beauty & Health,Cosmetics,418,276
+prd_0080,Nail Polish,Beauty & Health,Cosmetics,673,469
+prd_0081,Multivitamins (60 tabs),Beauty & Health,Healthcare,587,385
+prd_0082,Pain Relief Balm (30g),Beauty & Health,Healthcare,336,283
+prd_0083,Bandages (Pack of 10),Beauty & Health,Healthcare,537,425
+prd_0084,Thermometer,Beauty & Health,Healthcare,717,553
+prd_0085,Hand Sanitizer (100ml),Beauty & Health,Healthcare,489,305
+prd_0086,Notebook,Office Products,Stationery,202,155
+prd_0087,Ballpoint Pen,Office Products,Stationery,331,235
+prd_0088,Stapler,Office Products,Stationery,116,84
+prd_0089,Sticky Notes,Office Products,Stationery,338,245
+prd_0090,Highlighter Set,Office Products,Stationery,697,436
+prd_0091,Printer Ink,Office Products,Electronics,667,459
+prd_0092,USB Drive (32GB),Office Products,Electronics,109,85
+prd_0093,Mouse,Office Products,Electronics,215,177
+prd_0094,Keyboard,Office Products,Electronics,250,173
+prd_0095,Monitor,Office Products,Electronics,276,195
