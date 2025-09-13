@@ -1,83 +1,93 @@
-# DrutoBazar BI Suite
+# 🛒 DrutoBazar BI Suite  
+*Centralized Dashboard for Strategic Sales & Marketing Insights*  
 
-Centralized dashboard for the Sales and Marketing team across 56 districts.
-
-[View Live Dashboard](https://app.powerbi.com) | [Download Case Study](#)
-
----
-
-## 🧠 Business Problem
-
-DrutoBazar, a rapidly growing retail chain with outlets across 56 districts in Bangladesh, faced a persistent challenge: managing and interpreting data from multiple, disconnected sources — databases, CRMs, ERP systems, marketing tools. This lack of integration created blind spots in performance tracking and slowed down critical decision-making. The Sales & Marketing teams were dealing with:
-
-- Fragmented and inconsistent reports between departments  
-- Delays of up to a week in receiving monthly performance updates  
-- Missed opportunities to adjust campaigns in real time  
+![Project Banner](assets/banner.png)  
 
 ---
 
-## 🎯 Objective
+## 📌 Project Overview  
+Founded in **2017**, DrutoBazar is a fast-growing retail chain across **56 districts in Bangladesh**, specializing in electronics, daily essentials, and home décor.  
 
-| Goal | Description |
-|---|---|
-| **Consolidate Data** | Centralize critical sources into a SQL-based warehouse for unified access. |
-| **Deliver Insights** | Build Power BI dashboards to track KPIs across all levels. |
-| **Enable Access** | Apply role-based controls for secure, tailored data views. |
-| **Prove Impact** | Analyze Q4 data to showcase value and business results. |
+As a **Business Intelligence Analyst**, I collaborated with **Sales, Marketing, HR, and Retail Operations** teams to:  
+- Build a **SQL-based data warehouse** for unified analytics  
+- Automate reporting pipelines  
+- Develop **interactive Power BI dashboards**  
 
----
-
-## 🛠️ Tools & Data
-
-**Technologies used:**
-
-- **SQL** — clean, normalize, and model data; joins & aggregations; structured schemas; manage data warehouse.  
-- **Excel** — data exploration & validation; pivot tables; ad-hoc checks.  
-- **Power BI** — data modeling (relationships, DAX calculations); dashboards with KPIs; automation with scheduled refresh.  
-
-**Data sources:**
-
-- ERP sales data (2022–2023) (~800,000 records)  
-- Product & Outlet data from Retail Operations  
-- Customer & Sales data from Sales & Marketing  
-- Salesperson data from HR  
-
-This structure provided a holistic view of business performance across people, products, and outlets.
+This initiative enabled **faster decision-making, performance optimization, and operational efficiency**.  
 
 ---
 
-## 🖼️ Project Walkthrough
-
-_(Here you can place image links or gifs/screenshots)_
-
-- Executive Dashboard  
-- Customer Dashboard  
-- Product Dashboard  
+## 🛠️ Tools & Techniques  
+- **Databases:** SQL Server  
+- **Analytics & Reporting:** Excel, Power BI  
+- **Project Type:** Data Warehousing | Data Extraction | Data Cleaning | Dashboard Development | Trend Analysis  
 
 ---
 
-## ✨ Key Insights
+## 📊 Executive Dashboard Insights  
 
-- **Outlet Performance**  
-  Jessore outlet exceeded its sales target by over 148k in Q4 2023 — strongest performer. Suggest piloting new products/promotions there.
+**Revenue & Profit Trends**  
+- Revenue peaked at **BDT 237.49M** (Aug 2023)  
+- Profit margins dipped to **26.82%** (May 2023)  
+➡️ *Recommendation:* Track **profitability KPIs** and optimize supplier/discount strategies  
 
-- **Product Category**  
-  Electronics topped revenue charts (≈ 0.29B). To further boost, prioritize stock availability and accessory bundling.
+**Category Performance**  
+- Electronics generated **BDT 1.14B** (41% of revenue) but had a **5.04% return rate**  
+- Home Décor delivered **28.92% margin** → strong pricing efficiency  
+➡️ *Recommendation:* Apply margin optimization & cross-selling  
 
-- **Customer Insight**  
-  *Mr. Jamal Khan* emerged as highest-value customer last quarter: 31 products, generating ~0.48M revenue with ~0.12M profit. Zero returns → good product satisfaction / quality.
+![Executive Dashboard](assets/executive_dashboard.png)  
+
+---
+
+## 👥 Customer Dashboard Insights  
+
+- Served **5,000 customers** in 2023  
+- **Top 100 customers = 59% of revenue** (BDT 3.2B) → concentration risk  
+- **Age 55+ = 1.67B revenue**, while **18–25 = 0.78B revenue** with lower order values  
+➡️ *Recommendation:* Loyalty programs for high spenders + targeted promos for younger customers  
+
+![Customer Dashboard](assets/customer_dashboard.png)  
 
 ---
 
-## 📈 Business Impact
+## 📦 Product Dashboard Insights  
 
-| Metric | Before | After |
-|---|---|---|
-| Reporting Time | ~7 days | ~2 hours |
-| Data Visibility | Delayed / static | Real-time |
-| Decision Making | Slow / reactive | Faster / proactive |
+- **Top 10 products = 43% of revenue (BDT 1.1B)**  
+- **Toasters:** High sales, low margin  
+- **Daily Household Needs:** Most returns (4.95%), deodorants top culprit  
+- **Unprofitable SKU Example:** Mango (–12% margin)  
+➡️ *Recommendation:* Re-negotiate supplier contracts, refine return policies, phase out low-margin SKUs  
+
+![Product Dashboard](assets/product_dashboard.png)  
 
 ---
+
+## 📌 Key Deliverables  
+
+- ✅ SQL-driven **data warehouse** for enterprise analytics  
+- ✅ **Multi-level Power BI dashboards** (executives, managers, team leads)  
+- ✅ **Automated reporting** (daily, weekly, monthly, quarterly)  
+- ✅ **Scalable BI infrastructure** for performance monitoring & root cause analysis  
+
+---
+
+## ❓ Open Questions & Caveats  
+
+- How is a *loyal customer* defined — program membership or repeat purchase?  
+- Can **return reason codes** be captured for deeper analysis?  
+- Are **demographics complete** for accurate segmentation?  
+- Are **salesperson vs. outlet sales** tracked independently?  
+
+---
+
+## 🚀 Final Note  
+The **DrutoBazar BI Suite** shows how advanced analytics, **SQL-based data warehousing**, and **Power BI dashboards** can transform raw data into actionable insights, empowering **sales & marketing strategy** while driving sustainable growth.  
+
+---
+
+🔗 **Check out full project details:** [shoeburrahman.com/drutobazar_project](https://shoeburrahman.com/drutobazar_project)  
+
 
 ## 📄 License & Contact
 
