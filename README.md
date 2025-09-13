@@ -1,7 +1,7 @@
 # 🛒 DrutoBazar BI Suite  
 *Centralized Dashboard for Strategic Sales & Marketing Insights*  
 
-![Project Banner](assets/banner.png)  
+![Project Banner](asset/banner.jpg)  
 
 ---
 
@@ -36,7 +36,7 @@ This initiative enabled **faster decision-making, performance optimization, and 
 - Home Décor delivered **28.92% margin** → strong pricing efficiency  
 ➡️ *Recommendation:* Apply margin optimization & cross-selling  
 
-![Executive Dashboard](assets/executive_dashboard.png)  
+![Executive Dashboard](asset/executive_dashboard.png)  
 
 ---
 
@@ -47,7 +47,7 @@ This initiative enabled **faster decision-making, performance optimization, and 
 - **Age 55+ = 1.67B revenue**, while **18–25 = 0.78B revenue** with lower order values  
 ➡️ *Recommendation:* Loyalty programs for high spenders + targeted promos for younger customers  
 
-![Customer Dashboard](assets/customer_dashboard.png)  
+![Customer Dashboard](asset/customer_dashboard.png)  
 
 ---
 
@@ -59,7 +59,7 @@ This initiative enabled **faster decision-making, performance optimization, and 
 - **Unprofitable SKU Example:** Mango (–12% margin)  
 ➡️ *Recommendation:* Re-negotiate supplier contracts, refine return policies, phase out low-margin SKUs  
 
-![Product Dashboard](assets/product_dashboard.png)  
+![Product Dashboard](asset/product_dashboard.png)  
 
 ---
 
