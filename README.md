@@ -1,72 +1,90 @@
-# Real-Time Business Intelligence for DrutoBazar
-Built a centralized reporting system for DrutoBazar, consolidating fragmented data from CRM, ERP, databases &amp; marketing tools into interactive Power BI dashboards. Enabled real-time insights, reduced reporting delays, and empowered sales &amp; marketing teams to make faster, data-driven decisions.
+# DrutoBazar BI Suite
 
-## 📖 Project Overview  
-This project covers:  
+Centralized dashboard for the Sales and Marketing team across 56 districts.
 
-✅ **Purpose**  
-Developed a **centralized reporting system** for the **Sales and Marketing team**, consolidating data from multiple sources into **Power BI dashboards**.  
-This streamlined performance tracking, improved reporting efficiency, and enabled faster decision-making.  
-
-✅ **Data Acquisition**  
-- Extract sales, customer, outlet, product and sales person data from **CRM, ERP, and POS systems**.  
-- Consolidate raw files into **CSV format**, then ingested them into a **SQL Server database** for structured storage.  
-
-✅ **Data Cleaning**  
-- Handle **missing values, duplicates, and inconsistent formatting**.  
-- Detecte and correcte **outliers** to ensure accuracy and reliability.  
-
-✅ **Data Transformation**  
-- Apply **standardization, normalization, and type conversions**.  
-- Engineer **derived features** to support in-depth sales and marketing analysis.  
-
-✅ **Data Connection**  
-- Establish a **connection (Import Mode) between SQL Server and Power BI** for real-time reporting.  
-
-✅ **Reporting and Dashboard**  
-- Build a **centralized reporting system** with controlled access for stakeholders.  
-- Designed interactive **Power BI dashboards** highlighting key metrics.
-
- ## 🎯 Ideal for Professionals in:
-- **SQL Development**
-- **Data Analytics**
-- **Business Intelligence (BI)**
-
-## 🛠️ Tools & Technologies Used:
-🔹 **Microsfot Excel:** or exploring and validating CSV data.  
-🔹 **SQL Server Express:** Lightweight SQL database for processing data.  
-🔹 **SQL Server Management Studio (SSMS):** GUI for managing SQL queries and transformations.
-🔹 **Power BI:** For data visualization, interactive dashboards, and reporting. 
-🔹 **Git & GitHub:** Version control and collaboration.
-
-## 🚀 Project Workflow  
-
-### **1️⃣ Data Collection**  
-- Collect data from **ERP, CRM, and POS systems**.  
-- Export into CSV format for ingestion.  
-
-### **2️⃣ Data Ingestion (Bronze Layer)**  
-- Import raw data from CSV files (CRM, ERP, POS).  
-- No transformations applied at this stage.  
-
-### **3️⃣ Data Cleaning & Standardization (Silver Layer)**  
-- Remove duplicates and handle NULL values.  
-- Standardize data formats (dates, currency, text cases).  
-- Correct data inconsistencies and errors.  
-- Handle outliers and irrelevant data points.  
-
-### **4️⃣ Data Transformation & Modeling (Gold Layer)**  
-- Create standardized and enriched tables.  
-- Generate new variables (aggregations, categorical encodings).  
-- Normalize or denormalize tables based on analysis needs.  
-
-### **5️⃣ Reporting & Dashboarding**  
-- Connect **SQL Server with Power BI**.  
-- Build interactive dashboards for Sales & Marketing performance insights.
+[View Live Dashboard](https://app.powerbi.com) | [Download Case Study](#)
 
 ---
-## 🛡️ License
-This project is licensed under the **MIT License**. Feel free to use, modify, and share with proper attribution.
+
+## 🧠 Business Problem
+
+DrutoBazar, a rapidly growing retail chain with outlets across 56 districts in Bangladesh, faced a persistent challenge: managing and interpreting data from multiple, disconnected sources — databases, CRMs, ERP systems, marketing tools. This lack of integration created blind spots in performance tracking and slowed down critical decision-making. The Sales & Marketing teams were dealing with:
+
+- Fragmented and inconsistent reports between departments  
+- Delays of up to a week in receiving monthly performance updates  
+- Missed opportunities to adjust campaigns in real time  
+
+---
+
+## 🎯 Objective
+
+| Goal | Description |
+|---|---|
+| **Consolidate Data** | Centralize critical sources into a SQL-based warehouse for unified access. |
+| **Deliver Insights** | Build Power BI dashboards to track KPIs across all levels. |
+| **Enable Access** | Apply role-based controls for secure, tailored data views. |
+| **Prove Impact** | Analyze Q4 data to showcase value and business results. |
+
+---
+
+## 🛠️ Tools & Data
+
+**Technologies used:**
+
+- **SQL** — clean, normalize, and model data; joins & aggregations; structured schemas; manage data warehouse.  
+- **Excel** — data exploration & validation; pivot tables; ad-hoc checks.  
+- **Power BI** — data modeling (relationships, DAX calculations); dashboards with KPIs; automation with scheduled refresh.  
+
+**Data sources:**
+
+- ERP sales data (2022–2023) (~800,000 records)  
+- Product & Outlet data from Retail Operations  
+- Customer & Sales data from Sales & Marketing  
+- Salesperson data from HR  
+
+This structure provided a holistic view of business performance across people, products, and outlets.
+
+---
+
+## 🖼️ Project Walkthrough
+
+_(Here you can place image links or gifs/screenshots)_
+
+- Executive Dashboard  
+- Customer Dashboard  
+- Product Dashboard  
+
+---
+
+## ✨ Key Insights
+
+- **Outlet Performance**  
+  Jessore outlet exceeded its sales target by over 148k in Q4 2023 — strongest performer. Suggest piloting new products/promotions there.
+
+- **Product Category**  
+  Electronics topped revenue charts (≈ 0.29B). To further boost, prioritize stock availability and accessory bundling.
+
+- **Customer Insight**  
+  *Mr. Jamal Khan* emerged as highest-value customer last quarter: 31 products, generating ~0.48M revenue with ~0.12M profit. Zero returns → good product satisfaction / quality.
+
+---
+
+## 📈 Business Impact
+
+| Metric | Before | After |
+|---|---|---|
+| Reporting Time | ~7 days | ~2 hours |
+| Data Visibility | Delayed / static | Real-time |
+| Decision Making | Slow / reactive | Faster / proactive |
+
+---
+
+## 📄 License & Contact
+
+Shoebur Rahman — © 2025 All Rights Reserved
+
+If you’d like to see the case-study, chat about the project, or collaborate, feel free to reach out!
+
 
 ---
 ## 🌟 About Me
