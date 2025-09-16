@@ -1,14 +1,6 @@
 # DrutoBazar BI Suite - Centralized Dashboard for Strategic Sales and Marketing Insights
-
-<p>
-  <strong style="color:white; background-color:#4CAF50; padding:4px 8px; border-radius:4px;">Tools Used:</strong>
-  <span style="color:#4CAF50; font-weight:bold;"> SQL Server, Excel, Power BI</span>
-</p>
-
-<p>
-  <strong style="color:white; background-color:#2196F3; padding:4px 8px; border-radius:4px;">Project Type:</strong>
-  <span style="color:#2196F3; font-weight:bold;"> Data Warehousing, Data Extraction, Data Cleaning, Dashboard Development, Reporting, Trend Analysis</span>
-</p>
+<img src="https://img.shields.io/badge/Tools%20Used-SQL%20Server%20%7C%20Excel%20%7C%20Power%20BI-seagreen" width="35%">  
+<img src="https://img.shields.io/badge/Project%20Type-Data%20Warehousing%20%7C%20ETL%20%7C%20Dashboard-darkslateblue" width="40%">
 
 ---
 
@@ -34,7 +26,6 @@
 7. [Final Note](#final-note)
 
 ---
-
 ## Project Overview
 Founded in 2017, DrutoBazar is a fast-growing retail chain operating across 56 districts in Bangladesh, specializing in electronic goods, daily household items, home décor and others. As a Business Intelligence Analyst, my role was to collaborate with stakeholders across Sales, Marketing, HR, and Retail Operations to design a SQL-based data warehouse, implement automated reporting, and develop interactive dashboards in Power BI. This initiative aimed to enhance data-driven decision-making, optimize performance tracking, and improve operational efficiency through advanced analytics and visualization.
 
@@ -54,7 +45,6 @@ Founded in 2017, DrutoBazar is a fast-growing retail chain operating across 56 d
 ![Power BI Model](assets/model_view.jpg)
 
 ---
-
 ## Executive Dashboard Insights
 
 ### Revenue & Profit Trends
@@ -62,7 +52,6 @@ Founded in 2017, DrutoBazar is a fast-growing retail chain operating across 56 d
 - Profit margins dipped to 26.82% in May 2023, indicating possible supplier cost increases, discount campaigns, or inefficiencies.
 
 ![Revenue & Profit Trends](assets/product_revenue.png)
-
 **Insight:** Sustained revenue growth paired with declining profit margins reduces overall profitability.  
 **Recommendation:** Introduce profitability KPIs into reporting and investigate cost optimization opportunities.
 
@@ -71,7 +60,6 @@ Founded in 2017, DrutoBazar is a fast-growing retail chain operating across 56 d
 - Home Décor ranked 3rd in sales but achieved a 28.92% profit margin, showing pricing efficiency.
 
 ![Category Performance](assets/category_performance.png)
-
 **Recommendation:** Apply margin optimization strategies to low-performing categories and explore cross-selling opportunities.
 
 ### Outlet & Sales Team Performance
@@ -80,9 +68,7 @@ Founded in 2017, DrutoBazar is a fast-growing retail chain operating across 56 d
 - Sales concentration is skewed—top 10 salespeople drove 9% (BDT 494.3M) of revenue.
 
 ![Outlet & Sales Team Performance](assets/outlet_sales.png)
-
 **Recommendation:** Develop training for underperforming outlets and incentive programs to balance sales distribution.
-
 ---
 
 ## Customer Dashboard Insights
@@ -98,7 +84,6 @@ Founded in 2017, DrutoBazar is a fast-growing retail chain operating across 56 d
 - Top 100 customers contributed 59% (BDT 3.2B) of revenue, exposing concentration risk.
 
 ![Retention & Loyalty](assets/top_100.png)
-
 **Recommendation:** Expand loyalty initiatives with tiered rewards and diversify acquisition channels to reduce dependency.
 
 ### Demographics & Segmentation
@@ -111,7 +96,6 @@ Founded in 2017, DrutoBazar is a fast-growing retail chain operating across 56 d
 - Top customer Tahmina Islam placed 104 orders worth BDT 1.13M, contributing 8.16% of sales.
 
 ![Customer Champion](assets/top_customer.png)
-
 **Recommendation:** Implement a customer success strategy to engage top spenders and mitigate dependency on individual customers.
 
 ---
@@ -123,7 +107,6 @@ Founded in 2017, DrutoBazar is a fast-growing retail chain operating across 56 d
 - Products like Toasters had high sales but low margins.
 
 ![Sales vs Profitability](assets/revenue_by_product.png)
-
 **Recommendation:** Re-negotiate supplier contracts or adjust pricing for high-volume, low-margin items.
 
 ### Returns Analysis
@@ -136,13 +119,11 @@ Founded in 2017, DrutoBazar is a fast-growing retail chain operating across 56 d
 - Some SKUs consistently unprofitable (e.g., Mango in Fresh Produce at -12% margin).
  
 ![Least Profitable Products](assets/top_least.png)
-
 **Recommendation:** Phase out or reposition unprofitable SKUs unless strategically essential.
 
 ---
 
 ## Questions & Caveats
-
 ### Open Questions:
 - How is a “loyal” customer defined — repeat purchase, program membership, or both?
 - Can reason codes for returns be added to enhance root cause analysis?
@@ -160,14 +141,11 @@ Founded in 2017, DrutoBazar is a fast-growing retail chain operating across 56 d
 ## Final Note
 The DrutoBazar BI Suite demonstrates how advanced analytics, SQL-based data warehousing, and Power BI dashboards can unlock actionable insights, improve sales and marketing performance, and drive strategic growth through data visualization, trend reporting, and stakeholder collaboration.
 
-
-
+---
 ## 📄 License & Contact
-
 Shoebur Rahman — © 2025 All Rights Reserved
-
-If you’d like to see the case-study, chat about the project, or collaborate, feel free to reach out!
-
+**📩 Let's Connect!**  
+If you’d like to see the case study, chat about the project, or collaborate, feel free to **[reach out via email](mailto:your-email@example.com)** or **connect on LinkedIn**.
 
 ---
 ## 🌟 About Me
