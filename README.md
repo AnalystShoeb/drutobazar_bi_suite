@@ -156,7 +156,7 @@ The DrutoBazar BI Suite demonstrates how advanced analytics, SQL-based data ware
 ## 📄 License & Contact
 Shoebur Rahman — © 2025 All Rights Reserved
 **📩 Let's Connect!**  
-If you’d like to see the case study, chat about the project, or collaborate, feel free to **[reach out via email](mailto:your-email@example.com)** or **connect on LinkedIn**.
+If you’d like to see the case study, chat about the project, or collaborate, feel free to **[reach out via email](mailto:your-email@example.com)** or [connect on LinkedIn](https://www.linkedin.com/in/shoeburrahman/).
 
 ---
 
