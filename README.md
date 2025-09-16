@@ -26,6 +26,7 @@
 7. [Final Note](#final-note)
 
 ---
+
 ## Project Overview
 Founded in 2017, DrutoBazar is a fast-growing retail chain operating across 56 districts in Bangladesh, specializing in electronic goods, daily household items, home décor and others. As a Business Intelligence Analyst, my role was to collaborate with stakeholders across Sales, Marketing, HR, and Retail Operations to design a SQL-based data warehouse, implement automated reporting, and develop interactive dashboards in Power BI. This initiative aimed to enhance data-driven decision-making, optimize performance tracking, and improve operational efficiency through advanced analytics and visualization.
 
@@ -45,6 +46,7 @@ Founded in 2017, DrutoBazar is a fast-growing retail chain operating across 56 d
 ![Power BI Model](assets/model_view.jpg)
 
 ---
+
 ## Executive Dashboard Insights
 
 ### Revenue & Profit Trends
@@ -72,6 +74,7 @@ Founded in 2017, DrutoBazar is a fast-growing retail chain operating across 56 d
 ![Outlet & Sales Team Performance](assets/outlet_sales.png)
 
 **Recommendation:** Develop training for underperforming outlets and incentive programs to balance sales distribution.
+
 ---
 
 ## Customer Dashboard Insights
@@ -149,15 +152,18 @@ Founded in 2017, DrutoBazar is a fast-growing retail chain operating across 56 d
 The DrutoBazar BI Suite demonstrates how advanced analytics, SQL-based data warehousing, and Power BI dashboards can unlock actionable insights, improve sales and marketing performance, and drive strategic growth through data visualization, trend reporting, and stakeholder collaboration.
 
 ---
+
 ## 📄 License & Contact
 Shoebur Rahman — © 2025 All Rights Reserved
 **📩 Let's Connect!**  
 If you’d like to see the case study, chat about the project, or collaborate, feel free to **[reach out via email](mailto:your-email@example.com)** or **connect on LinkedIn**.
 
 ---
+
 ## 🌟 About Me
 Hi there! I'm **Shoebur Rahman**, a **Data Analyst** passionate about data cleaning, analytics, and storytelling.  
 Let’s connect and explore data together! 🚀
 
 ---
+
 🔗 [Portfolio](https://shoeburrahman.com) |🔗 [LinkedIn](https://www.linkedin.com/in/shoeburrahman/) | 🔗 [GitHub](https://github.com/AnalystShoeb) | 🔗 [Medium](https://medium.com/@analystshoeb)
