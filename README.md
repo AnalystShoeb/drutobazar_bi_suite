@@ -52,6 +52,7 @@ Founded in 2017, DrutoBazar is a fast-growing retail chain operating across 56 d
 - Profit margins dipped to 26.82% in May 2023, indicating possible supplier cost increases, discount campaigns, or inefficiencies.
 
 ![Revenue & Profit Trends](assets/product_revenue.png)
+
 **Insight:** Sustained revenue growth paired with declining profit margins reduces overall profitability.  
 **Recommendation:** Introduce profitability KPIs into reporting and investigate cost optimization opportunities.
 
@@ -60,6 +61,7 @@ Founded in 2017, DrutoBazar is a fast-growing retail chain operating across 56 d
 - Home Décor ranked 3rd in sales but achieved a 28.92% profit margin, showing pricing efficiency.
 
 ![Category Performance](assets/category_performance.png)
+
 **Recommendation:** Apply margin optimization strategies to low-performing categories and explore cross-selling opportunities.
 
 ### Outlet & Sales Team Performance
@@ -68,6 +70,7 @@ Founded in 2017, DrutoBazar is a fast-growing retail chain operating across 56 d
 - Sales concentration is skewed—top 10 salespeople drove 9% (BDT 494.3M) of revenue.
 
 ![Outlet & Sales Team Performance](assets/outlet_sales.png)
+
 **Recommendation:** Develop training for underperforming outlets and incentive programs to balance sales distribution.
 ---
 
@@ -84,6 +87,7 @@ Founded in 2017, DrutoBazar is a fast-growing retail chain operating across 56 d
 - Top 100 customers contributed 59% (BDT 3.2B) of revenue, exposing concentration risk.
 
 ![Retention & Loyalty](assets/top_100.png)
+
 **Recommendation:** Expand loyalty initiatives with tiered rewards and diversify acquisition channels to reduce dependency.
 
 ### Demographics & Segmentation
@@ -96,6 +100,7 @@ Founded in 2017, DrutoBazar is a fast-growing retail chain operating across 56 d
 - Top customer Tahmina Islam placed 104 orders worth BDT 1.13M, contributing 8.16% of sales.
 
 ![Customer Champion](assets/top_customer.png)
+
 **Recommendation:** Implement a customer success strategy to engage top spenders and mitigate dependency on individual customers.
 
 ---
@@ -107,6 +112,7 @@ Founded in 2017, DrutoBazar is a fast-growing retail chain operating across 56 d
 - Products like Toasters had high sales but low margins.
 
 ![Sales vs Profitability](assets/revenue_by_product.png)
+
 **Recommendation:** Re-negotiate supplier contracts or adjust pricing for high-volume, low-margin items.
 
 ### Returns Analysis
@@ -119,6 +125,7 @@ Founded in 2017, DrutoBazar is a fast-growing retail chain operating across 56 d
 - Some SKUs consistently unprofitable (e.g., Mango in Fresh Produce at -12% margin).
  
 ![Least Profitable Products](assets/top_least.png)
+
 **Recommendation:** Phase out or reposition unprofitable SKUs unless strategically essential.
 
 ---
