@@ -1,4 +1,4 @@
-# <img src="assets/drutobazar-high-resolution-logo-grayscale-transparento.png" alt="DrutoBazar Logo" width="60"/> DrutoBazar BI Suite
+# <img src="assets/drutobazar_logo.png" alt="DrutoBazar Logo" width="40"/> DrutoBazar BI Suite
 **Centralized Dashboard for Strategic Sales and Marketing Insights**
 
 **Tools Used:** SQL Server, Excel, Power BI  
