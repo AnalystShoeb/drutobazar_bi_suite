@@ -1,6 +1,6 @@
 # DrutoBazar BI Suite - Centralized Dashboard for Strategic Sales and Marketing Insights
 <img src="https://img.shields.io/badge/Tools%20Used-SQL%20Server%20%7C%20Excel%20%7C%20Power%20BI-seagreen" width="35%">  
-<img src="https://img.shields.io/badge/Project%20Type-Data%20Analysis%20%7C%20ETL%20%7C%20Dashboard-darkslateblue" width="40%">
+<img src="https://img.shields.io/badge/Project%20Type-Data%20Analysis%20%7C%20Sales%20Analysis%20%7C%20Dashboard-darkslateblue" width="40%">
 
 ---
 
